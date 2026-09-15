@@ -31,9 +31,9 @@ mỗi người sẽ tự xử lý theo một kiểu — và đó là nguồn l�
 
 - **Loại:** Guideline chưa nói tới
 - **Mục guideline:** §2
-- **Người phát hiện:** @levietanhoffice · 15/09/2026
+- **Người phát hiện:** [@levietanhoffice](https://github.com/levietanhoffice) · 15/09/2026
 - **Link CVAT:**
-  - 
+  - https://cvat.note.transformerlabs.ai/tasks/180/jobs/1570?frame=0&type=shape&serverID=21047
 - **Mô tả:** §2 chỉ phân loại area/drivable và area/alternative, chưa nói mô tả cụ thể 2 class hoặc cách phân biệt.
 - **Các cách hiểu:**
   1. area/drivable là vùng đường chính xe đang đi, area/alternative là vùng không phải đường chính xe đang đi.
@@ -46,9 +46,9 @@ mỗi người sẽ tự xử lý theo một kiểu — và đó là nguồn l�
 
 - **Loại:** Guideline chưa nói tới
 - **Mục guideline:** §2
-- **Người phát hiện:** @levietanhoffice · 15/09/2026
+- **Người phát hiện:** [@levietanhoffice](https://github.com/levietanhoffice) · 15/09/2026
 - **Link CVAT:**
-  - 
+  - https://cvat.note.transformerlabs.ai/tasks/180/jobs/1570?frame=0&type=shape&serverID=20616
 - **Mô tả:** §2 chưa nói mô tả cụ thể class car, truck.
 - **Các cách hiểu:**
   1. Coi là xe dạng truck.
